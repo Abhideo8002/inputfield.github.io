@@ -1,0 +1,227 @@
+h1,h2,h3,h4,h5,h6,p,span
+		{
+			padding: 5px;
+		}
+		#top
+		{
+			position: absolute;
+			top: 0%;
+			height: 20%;
+			left: 0%;
+			width: 100%;
+			right: 0%;
+			background: linear-gradient(to left,yellow,blue);
+		}
+		#menu
+		{
+			position: absolute;
+			top: 20%;
+			height: 10%;
+			left: 0%;
+			width: 100%;
+			right: 0%;
+			background: linear-gradient( to left,green,red);
+		}
+		#menu1
+		{
+			position: absolute;
+			top: 0%;
+			height: 100%;
+			left: 80%;
+			width: 20%;
+			right: 0%;
+			background: linear-gradient( to left,white,red);
+		}
+		
+		#slide
+		{
+			position: absolute;
+			top: 30%;
+			height: 50%;
+			left: 0%;
+			width: 70%;
+			right: 30%;
+			background: #F00;
+		}
+		#noti
+		{
+			position: absolute;
+			top: 30%;
+			height: 50%;
+			left: 70%;
+			width: 30%;
+			right: 0%;
+			background: linear-gradient( to right,red,green);
+		}
+		#about
+		{
+			position: absolute;
+			top: 80%;
+			height: 60%;
+			left: 0%;
+			width: 100%;
+			right: 0%;
+			background: linear-gradient(to right,white,green,red);
+		}
+		#services
+		{
+			position: absolute;
+			top: 140%;
+			height: 40%;
+			left: 0%;
+			width: 100%;
+			right: 0%;
+			background: yellow;
+		}
+		#services1
+		{
+			position: absolute;
+			top: 0%;
+			height: 100%;
+			left: 0%;
+			width: 33%;
+			right: 67%;
+			background: linear-gradient(to right,red,skyblue);
+		}
+		#services2
+		{
+			position: absolute;
+			top: 0%;
+			height: 100%;
+			left: 33%;
+			width: 34%;
+			right: 33%;
+			background: linear-gradient( to left,green,red);
+		}
+		#services3
+		{
+			position: absolute;
+			top: 0%;
+			height: 100%;
+			left: 67%;
+			width: 33%;
+			right: 0%;
+			background: linear-gradient( to right,red,green);
+		}
+		#footer
+		{
+			position: absolute;
+			top: 180%;
+			height: 10%;
+			left: 0%;
+			width: 100%;
+			right: 0%;
+			background:green;	
+		}
+		.logo
+		{
+			height: 80%;
+			padding-top: 10px;
+			padding-left: 10px;
+		}
+		.slide
+		{
+			height: 100%;
+			width: 100%;
+		}
+		.p
+		{
+			color:white;
+		}
+		.menu
+		{
+			padding:0;
+			margin: 0; 
+		}
+		.menu li
+		{
+			float: left;
+			margin-left: 25px;
+			margin-top: 15px;
+			background:linear-gradient( to right, RED,green);
+			padding: 5px;
+			border-bottom-left-radius:20px;
+			border-top-right-radius:20px;
+			box-shadow: 1px 1px 5px #000;
+			list-style-type: none;
+		}
+		.menu li a
+		{
+			color: yellow;
+			font-size: 25px;
+			text-decoration :none; 
+		}
+		.no p
+		{
+			color:white;
+		}
+		.d
+		{
+			color:yellow;
+		}
+		.footer
+		{
+			color:blue;
+		}
+		#about1
+		{
+			position:absolute;
+			top:30%;
+			height:150%;
+			left:0%;
+			width:100%;
+			right:0%;
+			background: linear-gradient( to left,green,black);
+		}
+		.ss
+		{
+			color:#F00;
+		}
+		#contact1
+		{
+			position:absolute;
+			top:30%;
+			height:150%;
+			left:0%;
+			width:100%;
+			right:0%;
+			background: linear-gradient( to right,green,white,red);
+		}
+		.sss
+		{
+			color:#9C0;
+		}
+		#services1
+		{
+			position:absolute;
+			top:30%;
+			height:150%;
+			left:0%;
+			width:33%;
+			right:0%;
+			background: linear-gradient( to left,green,pink,indigo);
+		}
+		#services2
+		{
+			position:absolute;
+			top:30%;
+			height:150%;
+			left:33%;
+			width:34%;
+			right:0%;
+			background: linear-gradient( to left,green,pink,indigo);
+		}
+		#services3
+		{
+			position:absolute;
+			top:30%;
+			height:150%;
+			left:67%;
+			width:33%;
+			right:0%;
+			background: linear-gradient( to left,green,pink,indigo);
+		}
+		.ssss
+		{
+			color:#3FC;
+		}
